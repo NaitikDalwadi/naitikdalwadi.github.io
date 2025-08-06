@@ -13,7 +13,7 @@ feed that can be seen by the user. For secure delivery, a servo locking mechanis
 an authorized QR code is shown in front of the camera. A buzzer sounds if any unknown QR code is detected, indicating that someone
 has tried to gain unauthorized access and take the delivery items.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+![ADBot Drawing](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 
 ## Problem Statement
 
@@ -33,11 +33,12 @@ very large. Hence, we have made an autonomous delivery robot based on ROS (Robot
 
 - Autonomous Navigation: Deployed and fine-tuned the ROS Navigation Stack to enable real-time obstacle avoidance and autonomous path planning.
 
-## Achievement
+## Achievement/Recognition
 
 - Secured 2nd position in the Mechanical Engineering Department at the Project Expo organized by the Industry Institute Interaction Cell of our college.
+- Our [project](https://www.linkedin.com/posts/open-source-robotics-foundation_project-ros-technology-activity-6920412550727708672-o6te/?utm_source=share&utm_medium=member_android&rcm=ACoAAC-JZ1wBdc5Iqw8hnJKpKGOtp-p7sR_x-ag) was **featured by the OpenRobotics global community** on LinkedIn.
 
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/yousinix/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://www.youtube.com/watch?v=cQoGame0wjs" text="Working Video" %}
 </p>
