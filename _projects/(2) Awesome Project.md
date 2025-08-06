@@ -13,7 +13,7 @@ feed that can be seen by the user. For secure delivery, a servo locking mechanis
 an authorized QR code is shown in front of the camera. A buzzer sounds if any unknown QR code is detected, indicating that someone
 has tried to gain unauthorized access and take the delivery items.
 
-![ADBot Drawing](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+![ADBot Drawing](https://github.com/NaitikDalwadi/naitikdalwadi.github.io/blob/main/assets/ADBot%20Drawing.png)
 
 ## Problem Statement
 
