@@ -1,7 +1,7 @@
 ---
 name: Vision based Multi degree of freedom serial Manipulator for the patients suffering from Neurological disorders and infectious diseases (COVID-19)
 tools: [SolidWorks, Additive Manufacturing (Fused Deposition Modeling), MATLAB, PeterCorke Robotic System Toolbox, Arduino]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://naitikdalwadi.github.io/assets/images/feeding_arm_thumbnail.png
 description: It is a semi-automatic feeding serial manipulator that helps patients in their daily meal-consumption process. It synchronises machine vision, robot kinematics, and robot positional control.
 ---
 
@@ -24,7 +24,7 @@ Elderly individuals in senior care facilities often face challenges with their c
 
 - Planned and optimized smooth motion trajectories to ensure precise food delivery with minimal spillage.
 
-- Contributed to patent drafting and co-authored a research publication based on the project outcomes.
+- Contributed to patent drafting and co-authored a research publication.
 
 ## Achievement/Recognition
 
