@@ -1,11 +1,11 @@
 ---
 name: Underwater Robot
-tools: [ROS, Python, Jetson Nano, Additive Maufacturing (Fused Deposition Modeling), Arduino,Solidworks, Fusion360]
-image: https://naitikdalwadi.github.io/assets/images/adbot_thumbnail.JPG
+tools: [Solidworks, Additive Manufacturing (Fused Deposition Modeling), Arduino Nano, ESP 32]
+image: 
 description: This robot aims to autonomously deliver items in indoor environments such as hospitals, malls, offices, restaurants, warehouses, etc. from one point to another.
 ---
 
-# Autonomous Delivery Robot with Real-time Obstacle Avoidance
+# Underwater Robot
 
 The robot aims to deliver items autonomously without any need for human interference in indoor environment. It can deliver items
 safely and securely and avoid static and dynamic obstacles in real-time. Also, the camera inside the robot provides a live video
