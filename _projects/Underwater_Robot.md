@@ -1,7 +1,7 @@
 ---
 name: Underwater Robot
 tools: [Solidworks, Additive Manufacturing (Fused Deposition Modeling), Arduino Nano, ESP 32]
-image: https://naitikdalwadi.github.io/assets/underwater_thumbnail.png
+image: https://naitikdalwadi.github.io/assets/images/underwater_thumbnail.png
 description: This robot aims to autonomously deliver items in indoor environments such as hospitals, malls, offices, restaurants, warehouses, etc. from one point to another.
 ---
 
