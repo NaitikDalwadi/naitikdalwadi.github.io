@@ -1,7 +1,7 @@
 ---
 name: Design and 3D printing of externally powered prosthetic arm controlled by Brain Computer Interface for below elbow amputees
 tools: [EMOTIV EPOCX, EMOTIV PRO, PsychoPy, Python, MNE-Python]
-image: 
+image: https://naitikdalwadi.github.io/assets/images/BCI_thumbnail.png
 description: machine learning-driven brain-computer interface (BCI) framework for controlling a 3D-printed prosthetic arm based on electroencephalography (EEG) signals.
 ---
 
