@@ -2,43 +2,48 @@
 name: Underwater Robot
 tools: [Solidworks, Additive Manufacturing (Fused Deposition Modeling), Arduino Nano, ESP 32]
 image: https://naitikdalwadi.github.io/assets/images/underwater_thumbnail.png
-description: This robot aims to autonomously deliver items in indoor environments such as hospitals, malls, offices, restaurants, warehouses, etc. from one point to another.
+description: It is a 3-DoF underwater robot powered by an onboard power supply. The command signals are received by a floating receiver, which then transmits these signals to the robot via a cable.
 ---
 
 # Underwater Robot
 
-The robot aims to deliver items autonomously without any need for human interference in indoor environment. It can deliver items
-safely and securely and avoid static and dynamic obstacles in real-time. Also, the camera inside the robot provides a live video
-feed that can be seen by the user. For secure delivery, a servo locking mechanism is provided which unlocks the specific door when
-an authorized QR code is shown in front of the camera. A buzzer sounds if any unknown QR code is detected, indicating that someone
-has tried to gain unauthorized access and take the delivery items.
+- The mechanical design of this robot features a hydrodynamic shape to minimize the drag force acting on it. It comprises the main body, an acrylic base plate, and propellers. Both the body and propellers are manufactured using the Fused Deposition Modeling (FDM) 3D-printing technique. A gasket, placed between the robot body and base plate, is used to ensure waterproofing. 
+- The robot operates according to a predefined vector diagram to move forward, backward, right, and left. 
+- Command signals are transmitted wirelessly to a floating receiver, which then sends the signals via cable to the ESP32 microcontroller. The ESP32 forwards the signals to the corresponding ESCs to control the speed and direction of the propellers, ultimately maneuvering the robot. The salient features of the robot are as follows:
+1. Easily attachable and detachable battery box
+2. High Resolution Camera
+3. Waterproof spot light
+
+- This robot can be used for underwater shooting, bathymetry survey and underwater inspection.
+
 
 ![underwater robot drawing](/assets/images/underwater_motion.png)
 
 ## Problem Statement
 
-In places such as malls, offices, hospitals, etc. if there is a need to deliver some items from one point to another, people need to
-deliver it manually or some person is hired for this job. The manual delivery process can be tiresome and exhausting if the area is
-very large. Hence, we have made an autonomous delivery robot based on ROS (Robot Operating System) to tackle this problem.
+This project is part of the state-level robotics competition Robofest 2.0, organized by the Gujarat Council on Science and Technology, Government of Gujarat, India. The objectives specified for the Underwater Robot category are as follows:
+
+- An underwater robot which has the ability to be completely submerged and has the ability to move in 3 degrees of freedom (up, down, front back and left right). Needs to be immersed at least 4 feet depth.
+
+- Wirelessly controlled and battery-operated underwater robot which stays below 4 feet depth for at least 5 minutes.
+
 
 ## My Role
 
-- Hardware Setup: Configured the Jetson Nano and deployed it as the onboard computing unit.
+- Propeller Design and Simulation: Designed propellers and conducted simulations to evaluate multiple configurations for optimal thrust.
 
-- Sensor Integration: Integrated a 2D-LIDAR sensor with Jetson Nano for environment perception.
+- Manufacturing: Manufactured the robot body and propellers using the Fused Deposition Modeling (FDM) 3D printing technique.
 
-- Robot Fabrication: 3D printed all robot components using the Fused Deposition Modeling (FDM) technique.
+- Waterproofing: Implemented waterproofing solution to ensure reliable operation in under-water environments.
 
-- Mobility & Mapping: Implemented a differential drive mechanism and generated indoor environment map through teleoperation.
-
-- Autonomous Navigation: Deployed and fine-tuned the ROS Navigation Stack to enable real-time obstacle avoidance and autonomous path planning.
+- Motion Planning: Designed a vector diagram to define and control robot motion in multiple directions.
 
 ## Achievement/Recognition
 
-- Secured 2nd position in the Mechanical Engineering Department at the Project Expo organized by the Industry Institute Interaction Cell of our college.
-- Our [project](https://www.linkedin.com/posts/open-source-robotics-foundation_project-ros-technology-activity-6920412550727708672-o6te/?utm_source=share&utm_medium=member_android&rcm=ACoAAC-JZ1wBdc5Iqw8hnJKpKGOtp-p7sR_x-ag) was **featured by the OpenRobotics global community** on LinkedIn.
+- Secured 1st place in the Underwater Robot category at Robofest 2.0 and won a prize of 5,00,000 INR.
+- Inventor 1, Naitik Dalwadi, Inventor 2, Darshit Darji et al. Underwater Robot. Indian Patent Office, Patent No. 356337-001 Registration Date: 07/01/2022, Grant Date: 12/09/2023.
 
 
 <p class="text-center">
-{% include elements/button.html link="https://www.youtube.com/watch?v=cQoGame0wjs" text="Working Video" %}
+{% include elements/button.html link="https://www.youtube.com/watch?v=d-sza2mzV4o" text="Working Video" %}
 </p>
