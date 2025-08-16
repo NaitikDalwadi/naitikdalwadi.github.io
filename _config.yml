@@ -27,22 +27,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Naitik Dalwadi
   image             : https://naitikdalwadi.github.io/assets/images/profile_pic.jpg
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
   email             : naitikdalwadi09@gmail.com
-  facebook          : your_username
-  github            : your_username
+#  facebook          : your_username
+  github            : NaitikDalwadi
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : naitikdalwadi
-  medium            : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
