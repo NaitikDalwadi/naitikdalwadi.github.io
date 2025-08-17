@@ -38,7 +38,8 @@ very large. Hence, we have made an autonomous delivery robot based on ROS (Robot
 - Secured 2nd position in the Mechanical Engineering Department at the Project Expo organized by the Industry Institute Interaction Cell of our college.
 - Our [project](https://www.linkedin.com/posts/open-source-robotics-foundation_project-ros-technology-activity-6920412550727708672-o6te/?utm_source=share&utm_medium=member_android&rcm=ACoAAC-JZ1wBdc5Iqw8hnJKpKGOtp-p7sR_x-ag) was **featured by the OpenRobotics global community** on LinkedIn.
 
-
 <p class="text-center">
 {% include elements/button.html link="https://www.youtube.com/watch?v=cQoGame0wjs" text="Working Video" %}
 </p>
+
+![project expo](/assets/images/project_expo.JPG)
