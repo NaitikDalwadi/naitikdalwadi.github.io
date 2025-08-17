@@ -1,7 +1,7 @@
 ---
 name: Autonomous Delivery Robot with Real-time Obstacle Avoidance
 tools: [ROS, Python, Jetson Nano, Additive Maufacturing (Fused Deposition Modeling), Arduino,Solidworks, Fusion360]
-image: https://naitikdalwadi.github.io/assets/images/adbot_thumbnail.JPG
+image: https://naitikdalwadi.github.io/assets/images/adbot_thumbnail.gif
 description: This robot aims to autonomously deliver items in indoor environments such as hospitals, malls, offices, restaurants, warehouses, etc. from one point to another.
 ---
 
