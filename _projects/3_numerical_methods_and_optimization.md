@@ -11,14 +11,14 @@ description:  It aims to find the optimal parameters of the Llamas model that co
 
 Determine the optimal coefficients for a mathematical model of the compressor performance map. Additionally, address the following questions:
 
-- Which configurations work and why?
+- Which configurations(optimization algorithm, error metric, boundary conditions) work and why?
 - What metrices should we use?
 - Which algorithm is the best?
 - Which algorithm is the most efficient?
 
 ## Summary
 
-This project aims to optimize compressor performance using both classical optimization methods and surrogate model–based approaches. For this purpose, three datasets were provided, containing mass flow rate and pressure ratio data at different compressor rotor speeds. These datasets represent varying levels of measurement noise.
+This project aims to optimize compressor performance using both classical optimization methods and surrogate model–based approaches. For this purpose, three datasets were provided, containing mass flow rate and pressure ratio data at different compressor rotor speeds. These datasets represent varying level of measurement noise.
 
 In the classical optimization approach, the following methods were implemented:
 - Nelder-Mead
