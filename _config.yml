@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Naitik Dalwadi
 description         : >-
-                      Hi, I am Naitik Dalwadi 👋  
+                      Hi, I am Naitik Dalwadi.  
                       Currently pursuing a Masters in Automation & IT at TH Köln 🎓 with 2 years of experience in Robotics 🤖 and Machine Learning 🧠.  
-                      I am passionate about industry digitalization 💻 and autonomous systems.  
+                      I am passionate about industry digitalization and autonomous systems.  
 
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : naitikdalwadi/naitikdalwadi.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
