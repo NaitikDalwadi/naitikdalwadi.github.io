@@ -1,6 +1,6 @@
 ---
 name: Vision based Multi degree of freedom serial Manipulator for the patients suffering from Neurological disorders and infectious diseases (COVID-19)
-tools: [SolidWorks, Additive Manufacturing (Fused Deposition Modeling), MATLAB, PeterCorke Robotic System Toolbox, Arduino]
+tools: [SolidWorks, 3D Printing (Fused Deposition Modeling), MATLAB, PeterCorke Robotic System Toolbox, Arduino]
 image: https://naitikdalwadi.github.io/assets/images/feeding_arm_thumbnail.png
 description: It is a semi-automatic feeding serial manipulator that helps patients in their daily meal-consumption process. It synchronises machine vision, robot kinematics, and robot positional control.
 ---
