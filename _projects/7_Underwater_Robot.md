@@ -1,6 +1,6 @@
 ---
 name: Underwater Robot
-tools: [Solidworks, Additive Manufacturing (Fused Deposition Modeling), Arduino Nano, ESP 32]
+tools: [Solidworks, 3D Printing (Fused Deposition Modeling), Arduino Nano, ESP 32]
 image: https://naitikdalwadi.github.io/assets/images/underwater_thumbnail.png
 description: It is a 3-DoF underwater robot powered by an onboard power supply. The command signals are received by a floating receiver, which then transmits these signals to the robot via a cable.
 ---
@@ -47,3 +47,5 @@ This project is part of the state-level robotics competition Robofest 2.0, organ
 <p class="text-center">
 {% include elements/button.html link="https://www.youtube.com/watch?v=d-sza2mzV4o" text="Working Video" %}
 </p>
+
+![underwater team](/assets/images/underwater_team.jpg)
