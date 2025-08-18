@@ -1,6 +1,6 @@
 ---
 name: Autonomous Delivery Robot with Real-time Obstacle Avoidance
-tools: [ROS, Python, Jetson Nano, Additive Maufacturing (Fused Deposition Modeling), Arduino,Solidworks, Fusion360]
+tools: [ROS, Python, Jetson Nano, 3D Printing (Fused Deposition Modeling), Arduino,Solidworks, Fusion360]
 image: https://naitikdalwadi.github.io/assets/images/adbot_thumbnail.gif
 description: This robot aims to autonomously deliver items in indoor environments such as hospitals, malls, offices, restaurants, warehouses, etc. from one point to another.
 ---
@@ -19,7 +19,7 @@ has tried to gain unauthorized access and take the delivery items.
 
 In places such as malls, offices, hospitals, etc. if there is a need to deliver some items from one point to another, people need to
 deliver it manually or some person is hired for this job. The manual delivery process can be tiresome and exhausting if the area is
-very large. Hence, we have made an autonomous delivery robot based on ROS (Robot Operating System) to tackle this problem.
+very large. Hence, we made an autonomous delivery robot based on ROS (Robot Operating System) to tackle this problem.
 
 ## My Role
 
